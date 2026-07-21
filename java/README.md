@@ -1,1 +1,1 @@
-Java plugins and wrapper 
+Java plugins and wrapper included
